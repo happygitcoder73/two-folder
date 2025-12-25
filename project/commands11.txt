@@ -1,0 +1,426 @@
+    1  mkdir my-favorite-recipes
+    2  git init
+    3  mkdir src docs data
+    4  touch README.md src/app.txt data/recipes.txt
+    5  mkdir my-favorite-recipes && cd my-favorite-recipes
+    6  git init
+    7  mkdir src docs data
+    8  touch README.md src/app.txt data/recipes.txt
+    9  nano readme.md
+   10  nano data/recipes.txt
+   11  cat data/recipes.txt
+   12  cat src/app.txt
+   13  ls
+   14  ls -a
+   15  pwd
+   16  less data/recipes.txt
+   17  cat src/app.txt
+   18  git add data/recipes.txt src/app.py
+   19  git commit -m "Добавлен скрипт для чтения рецептов"
+   20  python src/app.py
+   21  nano src/app.py
+   22  cat src/app.py
+   23  python src/app.py
+   24  python src/app.py
+   25  cd  /f/Новая папка/my-favorite-recipes
+   26  cd  f/Новая папка/my-favorite-recipes
+   27  git add data/recipes.txt src/app.py
+   28  git commit -m "Добавлен скрипт для чтения рецептов"
+   29  python src/app.py
+   30  cat data/recipes.txt
+   31  ls -a
+   32  nano src/Борщ
+   33  nano scr/паста
+   34  mkdir my-favorite-movies && cd my-favorite-movies
+   35  ls
+   36  ls =a
+   37  ls -a
+   38  git init
+   39  status
+   40  git status
+   41  mkdir scr docs data
+   42  ls -a
+   43  touch README.md src/app.txt data/movies.txt
+   44  nano readme.md
+   45  nano data/movies.txt
+   46  nano scr/app.txt
+   47  ls
+   48  ls -a
+   49  pwd
+   50  cat data/movies.txt
+   51  cp data/movies.txt data/movies_backup.txt
+   52  ls -a
+   53  git status
+   54  git add .
+   55  git status
+   56  git commit -m "Init project:movies list"
+   57  git branch -m master main
+   58  git remote add origin  <>
+   59  git remote add origin  https://github.com/happygitcoder73/happy73.git
+   60  git push -u origin main
+   61  git remote add origin  <https://github.com/happygitcoder73/happy73.git>
+   62  git remote add origin  https://github.com/happygitcoder73/happy73.git
+   63  git push -u origin main
+   64  git status
+   65  [200~git commit -m "first commit"~
+   66  git commit -m "first commit"
+   67  git remote add origin https://github.com/happygitcoder73/1-master.git
+   68  git push -u origin main
+   69  mkdir my-favorite-movies && cd my-favorite-movies
+   70  ls
+   71  git init
+   72  mkdir scr docs data
+   73  git status
+   74  git branch -M main
+   75  ls -a
+   76  echo "# happy73" >> README.md
+   77  nano README.md
+   78  nano data/movies.txt
+   79  nano src/app.txt
+   80  touch README.md src/app.txt data/movies.txt
+   81  nano src/app.txt
+   82  mkdir my-favorite-movies && cd my-favorite-movies
+   83  git init
+   84  mkdir src docs data
+   85  touch README.md src/app.txt data/movies.txt
+   86  nano  README.md 
+   87  nano  src/app.txt 
+   88  nano data/movies.txt
+   89  git add .
+   90  ls -a
+   91  cat data/movies.txt
+   92  cat README.md 
+   93  git status
+   94  pwd
+   95  git branch -M main
+   96  cd data
+   97  cp data/movies.txt data/movies_backup.txt
+   98  less data/movies.txt 
+   99  git status
+  100  mkdir -p data src
+  101  mv ../README.md ./
+  102  mv movies.txt data/
+  103  git add .
+  104  mkdir my-favorite-movies && cd my-favorite-movies
+  105  git init
+  106  git branch -M main
+  107  mkdir src docs data
+  108  touch README.md src/app.txt data/movies.txt
+  109  nano README.md 
+  110  nano data/movies.txt
+  111  nano src/app.txt 
+  112  git add .
+  113  git status
+  114  git commit -m "Add 1"
+  115  git remote add origin https://github.com/happygitcoder73/happy73.git
+  116  git push -u origin main
+  117  git config user.name
+  118  git config --global user.name "happygitcoder73"
+  119  git config --global user.email "aleksesaulov92@gmail.com"
+  120  git commit -m "Init project: movie list"
+  121  git remote add origin https://github.com/happygitcoder73/happy73.git
+  122  git remote -v
+  123  git push -u origin main
+  124  mkdir my-favorite-movies && cd my-favorite-movies
+  125  git init
+  126  git branch -M main
+  127  nano README.md
+  128  ls
+  129  nano data/movies.txt
+  130  ls
+  131  mkdir my-favorite-movies && cd my-favorite-movies
+  132  git init
+  133  git branch -M main
+  134  mkdir src docs data
+  135  ls
+  136  nano README.md
+  137  ls
+  138  touch scr/app.txt data/movies.txt
+  139   touch src/app.txt data/movies.txt
+  140  ls -a
+  141  nano src/app.txt 
+  142  nano data/movies.txt
+  143  cat src/app.txt
+  144  ls
+  145  ls -a
+  146  pwd
+  147  less data/movies.txt
+  148  cd data
+  149  cp data/movies.txt data/movies_backup.txt
+  150  ls
+  151  ls-a
+  152  ls -a
+  153  cd data
+  154  cd
+  155  ls -a
+  156  cd ./  ../  .git/  README.md  data/  docs/  src/
+  157  cd .
+  158  ls -a
+  159  less data/movies.txt
+  160  less
+  161  less .
+  162  less -main
+  163  ls
+  164  mkdir my-favorite-recipes && cd my-favorite-recipes
+  165  git init
+  166  git branch -M main
+  167  mkdir src docs data
+  168  ls -a
+  169  touch README.md src/app.txt data/movies.txt
+  170  ls
+  171  nano README.md 
+  172  nano src/app.txt
+  173  nano data/movies.txt
+  174  ls data/movies.txt
+  175  ls -a
+  176  pwd
+  177  cp data/movies.txt data/movies_backup.txt
+  178  mkdir data/archive
+  179  cp data/movies.txt data/archive/
+  180  rm data/movies_backup.txt
+  181  mkdir tmp
+  182  ls -a
+  183  touch tmp/test.txt
+  184  rm -r tmp
+  185  git status
+  186  git add .
+  187  ls -a
+  188  git status
+  189  git commit -m "Init project: movie list"
+  190  git confing --global user.name "happygitcoder73"
+  191  git config --global user.name "happygitcoder73"
+  192  git config --global user.email "aleksesaulov92@gmail.com"
+  193  git status
+  194  git add .
+  195  git remote add origin <https://github.com/happygitcoder73/book.git>
+  196  git remote add origin https://github.com/happygitcoder73/book.git
+  197  git push -u origin main
+  198  history > commands.txt
+  199  git add commands.txt
+  200  git commit -m "Add terminal history"
+  201  git push
+  202  mkdir my-favorite-recipes && cd my-favorite-recipes
+  203  git init
+  204  git branch -M main
+  205  mkdir src docs data
+  206  ls -a
+  207  touch README.md
+  208  touch src/app.txt data/recipes.txt
+  209  nano README.md
+  210  nano src/app.txt 
+  211  nano  data/recipes.txt
+  212  ls
+  213  ls -a
+  214  pwd
+  215  cat src/app.txt
+  216  less data/recipes.txt
+  217  clear
+  218  cd data
+  219  cd ..
+  220  cp data/recipes.txt data/recipes_backup.txt
+  221  mkdir data/archive
+  222  cp data/recipes.txt data/archive/
+  223  rm data/recipes_backup.txt
+  224  mkdir tmp
+  225  touch tmp/test.txt
+  226  rm -r tmp
+  227  git status
+  228  git add ..
+  229  git add .
+  230  git commit -m "Init project: recipe list"
+  231  git remote add origin https://github.com/happygitcoder73/happy73.git
+  232  git config --global user.name "happygitcoder73"
+  233  git config --global user.email "aleksesaulov92@gmail.com"
+  234  git push -u origin main
+  235  history > commands.txt
+  236  git add commands.txt
+  237  git commit -m "Add terminal history"
+  238  git push
+  239  git init
+  240  git branch -M main
+  241  git config --global user.name "happygitcoder73"
+  242   git config --global user.name "aleksesaulov92@gmail.com"
+  243  mkdir doc-project
+  244  cd doc-project
+  245  ls
+  246  nano README.md
+  247  nano notes.txt
+  248  git add README.txt notes.txt
+  249  GIT STATUS
+  250  git status
+  251  git add .
+  252  git -ls
+  253  mkdir doc-project
+  254  cd  doc-project
+  255  git init
+  256  git branch -M main
+  257  nano README.txt
+  258  nano notes.txt
+  259  git add .
+  260  git status
+  261  git commit "Init proekt"
+  262  git commit -m "Init proekt"
+  263  git remote add origin https://github.com/happygitcoder73/doc-project.git
+  264  git push -u origin main
+  265  git log --oneline
+  266  git revert 1924fd9 
+  267  git init
+  268  git status
+  269  git restore README.md
+  270  git status
+  271  git add .
+  272  git status
+  273  git add  doc-project/
+  274  git status
+  275  git init
+  276  git status
+  277  git add doc-project
+  278  git status
+  279  git add .
+  280  git status
+  281  git restore ,
+  282  git restore .
+  283  git status
+  284  git init
+  285  git branch -M main
+  286  mkdir doc-project
+  287  git status
+  288  git =ls
+  289  git -ls
+  290  nano README.txt
+  291  nano notes.txt
+  292  git add .
+  293  git status
+  294  git commit -m "Init project"
+  295  git remote add origin https://github.com/happygitcoder73/doc-proekt.git
+  296  git push -u origin main
+  297  git status
+  298  git log
+  299  echo "TEST LINE" >> README.txt
+  300  git add README.txt
+  301  git status
+  302  git commit -m "init2"
+  303  git push origin main
+  304  sed -i '/TEST LINE/d' README.txt
+  305  git add .
+  306  git status
+  307  git commit -m "init delet"
+  308  git push origin main
+  309  nano notes.txt 
+  310  git add notes.txt
+  311  git commit -m "update"
+  312  git status
+  313  git commit --amend -m "добавлена новая секция в notes.txt"
+  314  git push origin main
+  315  nano notes.txt
+  316  nano todo.txt
+  317  git stash push -m "незавершенные изменения notes.txt"
+  318  git status
+  319  git add .
+  320  git status
+  321  git commit -m "добавлен todo.txt со списком задач"
+  322  git push origin main
+  323  git stash pop
+  324  git status
+  325  git add .
+  326  git status
+  327  git commit -m "добавлен todo.txt со списком задач"
+  328  git push origin main
+  329  git status
+  330  echo "API_KEY=12345" > secret.txt
+  331  echo "secret.txt" >> .gitignore
+  332  git status --ignored
+  333  git add .
+  334  git status
+  335  git status --ignored
+  336  nano app.log
+  337  nano debug.log
+  338  echo "*.log" >> .gitignore
+  339  git status
+  340  nano README.txt
+  341  git add .
+  342  git commit -m "добавлена версия проекта"
+  343  git reset --soft HEAD1
+  344  git status
+  345  nano README.txt
+  346  git add .
+  347  git commit -m "обновление README: добавлена версия и дата"
+  348  git push origin main
+  349  git status
+  350  git log --oneline
+  351  cat .gitignore
+  352  git push origin main
+  353  history > commands1.txt
+  354  git status
+  355  git add .
+  356  git commit -m "обновление README"
+  357  git push origin main
+  358  git init
+  359  git branch -M main
+  360  mkdir project
+  361  cd  project
+  362  nano papka1/text1.txt
+  363  git init
+  364  mkdir project
+  365  cd project
+  366  mkdir papka1 papka2
+  367  nano papka1/text1.txt
+  368  nano papka2/text2.txt
+  369  git add .
+  370  git status
+  371  git commit -m "2 папки с рейтингом"
+  372  nano papka1/text1.txt
+  373  git add papka1/text1.txt
+  374  git status
+  375  git commit -m "Внесены изменения в 1 папку"
+  376  mkdir papka3
+  377  nano papka3/text3.txt
+  378  git status
+  379  git add papka3/
+  380  git status
+  381  git commit -m "Добавлена 3 папка"
+  382  git -ls
+  383  git ls
+  384  git ls
+  385  nano  papka3/text3.txt
+  386  git checkout -- papka3/text3.txt
+  387  cat papka3/text3.txt
+  388  git status
+  389  git remote add origin https://github.com/happygitcoder73/two-folder.git
+  390  git push -u origin main
+  391  nano papka3/text3.txt
+  392  git add papka3/text3.txt
+  393  git status
+  394  git reset papka3/text3.txt
+  395  git status
+  396  git add papka3/text3.txt
+  397  git status
+  398  cat papka3/text3.txt
+  399  nano papka3/text3.txt
+  400  git add papka3/text3.txt
+  401  git commit -m "Изменения в 3 папке"
+  402  git log --oneline -3
+  403  git revert HEAD --ae5dfa9 
+  404  git log --oneline -4
+  405  git status
+  406  git log --oneline -5
+  407  nano papka3/text3.txt
+  408  git add papka3/text3.txt
+  409  git commit -m "Изменения в 3 папке -1"
+  410  git log --oneline -5
+  411  git reset --hard HEAD~2
+  412  git log --oneline
+  413  nano papka1/text1.txt
+  414  git add papka1/text1.txt
+  415  git commit --amend -m "последний коммит papra1"
+  416  git log --oneline
+  417  git status
+  418  git history> command.txt
+  419  git status
+  420  git add .
+  421  git status
+  422  git push -u origin main
+  423  git status
+  424  $ git remote add origin https://github.com/happygitcoder73/two-folder.git
+  425  git push -u origin main
+  426  history > commands11.txt
